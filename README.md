@@ -1,4 +1,4 @@
-# **⚾ BaseballBacon ⚾**
+# **⚾ BoxscoreBagger ⚾**
 
 - Creating a TeamData object for a website:
 
